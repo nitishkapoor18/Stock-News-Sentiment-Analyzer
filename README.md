@@ -1,6 +1,4 @@
-Sure! Here is a detailed README for your project:
 
----
 
 # Stock News Sentiment Analyzer
 
