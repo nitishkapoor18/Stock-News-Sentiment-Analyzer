@@ -21,7 +21,7 @@ Automated system to fetch and analyze stock-related news articles using sentimen
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-news-sentiment-analyzer.git
+   git clone https://github.com/nitishkapoor18/stock-news-sentiment-analyzer.git
    cd stock-news-sentiment-analyzer
    ```
 
@@ -55,10 +55,6 @@ This script monitors news articles for a specified list of stocks. It fetches ne
 ## Example
 The script fetches news articles for stocks like 'GESHIP', 'COCHISHIP', 'GRSE', 'Hindustan Aeronautics Limited', 'IRCON', and 'IREDA'. It uses the Llama API to analyze the sentiment of each article and provides a buy/sell/hold recommendation. The results are emailed to the specified recipients.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ### Contributions
 Feel free to submit pull requests or raise issues if you find any bugs or have suggestions for improvements.
@@ -66,8 +62,7 @@ Feel free to submit pull requests or raise issues if you find any bugs or have s
 ---
 
 ### Contact
-For any queries or support, contact [your-email@example.com](mailto:your-email@example.com).
+For any queries or support, contact [nitishkapoor4321@gmail.com](mailto:nitishkapoor4321@gmail.com).
 
 ---
 
-Replace `your-username` in the git clone URL with your GitHub username and update the email address in the Contact section with your actual email address. Let me know if you need any more customization or additional information!
